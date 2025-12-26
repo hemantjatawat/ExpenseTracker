@@ -34,7 +34,10 @@ The project allows users to add expenses, view all expenses, and store data secu
 5. Run `MainApp.java`.
 
 ## Team Members
-- Your Name (Roll No)
+- Hemant kumar jatawat - 23CA2571010
+- Rohit sharma -23CA2571019
+- Bhavishay Thawani -23ED2571002
+- Deepak saini -23CA2571004
 
 ## Deployment
 This is a local console-based project and is not deployed online.
